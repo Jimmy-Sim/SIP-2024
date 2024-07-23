@@ -1,2 +1,4 @@
 # SIP-2024
 Haskell is a purely functional programming language known for its strong type system and lazy evaluation strategy. Haskell monads provide a structured way to sequence computations and manage side effects within the purely functional paradigm. Haskell’s expressive syntax and emphasis on monads (immutability) make it a popular choice for developing reliable distributed software systems. The goal of this project is to build a Haskell API for secure distributed applications where every computation is done inside a monad. The API will ensure fault tolerance, safe information flow, and deadlock freedom––key considerations in the development of any secure distributed system.
+
+With mentor Priyanka Mondal, a PhD candidate at UC Santa Cruz, and two peers, I worked on this research project over the summer for 9 weeks. 
